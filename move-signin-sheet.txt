@@ -1,1 +1,2 @@
-move-signin-sheet
+move-signin-sheet# Add a line to signin-sheet.txt in move-signin-sheet branch
+echo "Move signin sheet to its own page" >> signin-sheet.txtgit add signin-sheet.txt
